@@ -33,3 +33,5 @@ module.exports = {
 npm run dev
 ```
 Test paths:
+Login: admin
+Password: admin
